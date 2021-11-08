@@ -1,0 +1,50 @@
+  168  python app.py --credit_score=400
+  169  python app.py --credit_score=450
+  170  python app.py --credit_score=750 --debt=3000 --income=50000
+  171  python app.py --credit_score=750 --debt=3000 --income=50000
+  172  python app.py --credit_score=750 --debt=3000 --income=50000
+  173  python app.py --credit_score=750 --debt=3000 --income=50000
+  174  python app.py
+  175  python app.py --credit_score=750 --debt=3000 --income=50000
+  176  python.cli.py
+  177  python cli.py
+  178  python cli.py
+  179  python cli.py
+  180  python app.py --credit_score=750
+  181  python app.py --credit_score=400
+  182  python app.py --credit_score=400
+  183  python app.py --credit_score=750 --debt=500 --income=20000
+  184  python app.py --credit_score=750 --debt=3000 --income=20000
+  185  python app.py --credit_score=750 --debt=3000 --income=50000
+  186  python app.py --credit_score=750 --debt=3000 --income=50000
+  187  git clone https://github.com/thayercasey/assignments.git
+  188  git clone https://github.com/thayercasey/larrybird.git
+  189  cd larrybird
+  190  ls
+  191  git remote-v
+  192  git remote -v
+  193  ls
+  194  git status
+  195  git add
+  196  git add .
+  197  git status
+  198  git add .
+  199  git status
+  200  git commt
+  201  git commit -m "Module 2 starter code"
+  202  git status
+  203  git push
+  204  git push
+  205  git push -f origin main
+  206  touch .gitignore
+  207  ls
+  208  git status
+  209  git add .
+  210  git status
+  211  git commit
+  212  git status
+  213  git commit
+  214  git status
+  215  git commit -m "updated loan qualifier application"
+  216  git push origin main
+  217  history 50 > terminal_history.txt
